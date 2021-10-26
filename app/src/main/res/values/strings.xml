@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="about_your_alarm">About your alarm</string>
+    <string name="_00_00">00:00</string>
+    <string name="_26_09_1999">26:09:1999</string>
+    <string name="name">Name</string>
+    <string name="_23_09_2021_20_21">23/09/2021 20:21</string>
+</resources>
